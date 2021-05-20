@@ -411,6 +411,7 @@
   }
   .plans-container--slider {
     display: flex;
+    overflow: hidden;
     height: 316px;
     overflow-x: scroll;
     overscroll-behavior-x: contain;
