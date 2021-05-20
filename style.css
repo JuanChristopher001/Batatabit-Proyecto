@@ -442,6 +442,34 @@
     border-radius: 8px;
     color: var(--just-white);
   }
+
+ .plans-container--card .recommended2 {
+    position: absolute;
+    width: 120px;
+    height: 31px;
+    left: calc(50% - 60px);
+    top: -15px;
+    margin: 0;
+    padding: 6px;
+    background-color: var(--secondary-blue);
+    border-radius: 8px;
+    color: var(--just-white);
+  }
+
+.plans-container--card .recommended3 {
+    position: absolute;
+    width: 120px;
+    height: 31px;
+    left: calc(50% - 60px);
+    top: -15px;
+    margin: 0;
+    padding: 6px;
+    background-color: var(--grey);
+    border-radius: 8px;
+    color: var(--just-white);
+  }
+
+
   .plan-card--title {
     padding-top: 30px;
     font-size: 1.4rem;
