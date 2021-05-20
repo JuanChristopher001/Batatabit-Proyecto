@@ -443,7 +443,7 @@
     color: var(--just-white);
   }
 
- .plans-container--card .recommended2 {
+.plans-container--card .recommended_2 {
     position: absolute;
     width: 120px;
     height: 31px;
@@ -456,7 +456,7 @@
     color: var(--just-white);
   }
 
-.plans-container--card .recommended3 {
+  .plans-container--card .recommended_3 {
     position: absolute;
     width: 120px;
     height: 31px;
@@ -464,7 +464,7 @@
     top: -15px;
     margin: 0;
     padding: 6px;
-    background-color: var(--grey);
+    background-color: #495057;
     border-radius: 8px;
     color: var(--just-white);
   }
