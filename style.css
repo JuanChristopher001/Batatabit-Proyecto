@@ -276,7 +276,7 @@
     height: 24.01px;
     left: calc(50% - 20px);
     top: -10px;
-    background-image: url("../assets/icons/batata.svg");
+    background-image: url("https://i.postimg.cc/5yRRYxRd/logotipo-vertical.png");
   }
   .product-detail--title {
     width: 90%;
@@ -317,7 +317,7 @@
     height: 20px;
     margin: 0 auto;
     margin-bottom: 10px;
-    background-image: url("C:/Users/inten/Desktop/Web-Page/Proyecto Batabit/img/Clock.png");
+    background-image: url("https://raw.githubusercontent.com/JuanChristopher001/Batatabit-Proyecto/master/img/Clock.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -328,7 +328,7 @@
     height: 20px;
     margin: 0 auto;
     margin-bottom: 10px;
-    background-image: url("C:/Users/inten/Desktop/Web-Page/Proyecto Batabit/img/Eye.png");
+    background-image: url("https://raw.githubusercontent.com/JuanChristopher001/Batatabit-Proyecto/master/img/Eye.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -339,7 +339,7 @@
     height: 20px;
     margin: 0 auto;
     margin-bottom: 10px;
-    background-image: url("C:/Users/inten/Desktop/Web-Page/Proyecto Batabit/img/Money.png");
+    background-image: url("https://raw.githubusercontent.com/JuanChristopher001/Batatabit-Proyecto/master/img/Money.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -350,7 +350,7 @@
     height: 20px;
     margin: 0 auto;
     margin-bottom: 10px;
-    background-image: url("C:/Users/inten/Desktop/Web-Page/Proyecto Batabit/img/Checkmark.png");
+    background-image: url("https://raw.githubusercontent.com/JuanChristopher001/Batatabit-Proyecto/master/img/Money.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -483,7 +483,7 @@
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url("C:/Users/inten/Desktop/Web-Page/Proyecto Batabit/img/arrow.png");
+    background-image: url("https://raw.githubusercontent.com/JuanChristopher001/Batatabit-Proyecto/master/img/arrow.png");
     vertical-align: text-bottom;
   }
   footer {
